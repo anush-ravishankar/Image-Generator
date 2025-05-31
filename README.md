@@ -1,4 +1,5 @@
 # Image-Generator
+
 Full stack app to generate images using the OpenAI's DALL.E API
 Web-App UX :
 - Text Box to enter the description of the image to be generated!
