@@ -1,6 +1,7 @@
 # Image-Generator
 
-Full stack app to generate images using the OpenAI's DALL.E API
+### Full stack app to generate images using the OpenAI's DALL.E API
+#### 
 Web-App UX :
 - Text Box to enter the description of the image to be generated!
 - Option selector to choose size of image -- Small, Medium and Large
